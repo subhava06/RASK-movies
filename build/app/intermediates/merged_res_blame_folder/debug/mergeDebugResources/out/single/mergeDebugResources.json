@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-debug-26:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-main-21:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-debug-26:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-main-21:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-debug-26:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-main-21:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.dev.movies.movies_app-debug-26:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.dev.movies.movies_app-main-21:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dev.movies.movies_app-debug-26:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.dev.movies.movies_app-main-21:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-debug-26:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-main-21:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-debug-26:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-main-21:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.dev.movies.movies_app-debug-26:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.dev.movies.movies_app-main-21:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-debug-26:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Subhava Ojha\\.gradle\\daemon\\8.10.2\\com.dev.movies.movies_app-main-21:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.dev.movies.movies_app-debug-26:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.dev.movies.movies_app-main-21:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dev.movies.movies_app-debug-26:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.dev.movies.movies_app-main-21:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
